@@ -1,4 +1,6 @@
-# Hammadde Kurutma Analiz Sistemi
+
+
+<h1 align="center"> Hammadde Kurutma Analiz Sistemi</h1>
 <h3 align="center">
  Seramiklerin ve Seramik Hammaddelerinin Bünyede Bulunan Su Miktarının  Elektrik Akımı Yardımı ile Hesaplanması
 </h3>
