@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{56300C1A-AC66-404F-9F50-0216D0EADAAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnet", "dotnet", "{A5EADE8A-C041-418D-B3F7-BF7F2ECEFE6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HammaddeKurutmaAnalizSistemi", "HammaddeKurutmaAnalizSistemi", "{E20B9922-604C-489E-8C33-A1AE90521405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arduino veri alma", "src\dotnet\HammaddeKurutmaAnalizSistemi\Arduino veri alma.csproj", "{77E5C292-C20B-413E-B325-3D504AF7A726}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "arduino", "arduino", "{920E65D0-2503-42CA-83D8-8BD1CD0EF76F}"
+	ProjectSection(SolutionItems) = preProject
+		src\arduino\NemOraniHesaplama.ino = src\arduino\NemOraniHesaplama.ino
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E5C292-C20B-413E-B325-3D504AF7A726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E5C292-C20B-413E-B325-3D504AF7A726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E5C292-C20B-413E-B325-3D504AF7A726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E5C292-C20B-413E-B325-3D504AF7A726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5EADE8A-C041-418D-B3F7-BF7F2ECEFE6D} = {56300C1A-AC66-404F-9F50-0216D0EADAAD}
+		{E20B9922-604C-489E-8C33-A1AE90521405} = {A5EADE8A-C041-418D-B3F7-BF7F2ECEFE6D}
+		{77E5C292-C20B-413E-B325-3D504AF7A726} = {E20B9922-604C-489E-8C33-A1AE90521405}
+		{920E65D0-2503-42CA-83D8-8BD1CD0EF76F} = {56300C1A-AC66-404F-9F50-0216D0EADAAD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C46D2C5-8CB5-4EA2-893D-1E099565673E}
+	EndGlobalSection
+EndGlobal
