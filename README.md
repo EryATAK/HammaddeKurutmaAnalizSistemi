@@ -20,6 +20,7 @@ Malzeme teknolojilerinin hızla geliştiği, yeni ve ileri malzemelerin kullanı
 
 ### ARDUINO
 
+![1](https://ogrencievi.net/uploads/eray/HammaddeKurutmaAnalizSistemi/1.png)
 <p>
   Arduino, mikrodenetleyici kartları ve yazılım paketinden oluşan bir programlama platformudur. Öğrencilerden mühendislere, her kesimden insana hitap edebilmesi için kolaylık ön planda tutularak tasarlanmıştır. Kart üzerindeki mini bilgisayar (mikrodenetleyici), yazacağımız programa göre giriş ve çıkış bağlantılarını kontrol eder.
 </p>
@@ -67,6 +68,9 @@ Analog değer Arduinoya bağlı olan ADC entegresinden, numune durumu verisi ise
 </p>
 
 ### VERİ TOPLAMA
+
+![1](https://ogrencievi.net/uploads/eray/HammaddeKurutmaAnalizSistemi/2.png)
+![1](https://ogrencievi.net/uploads/eray/HammaddeKurutmaAnalizSistemi/3.png)
 <p>
 -Şekildeki oluşturduğum arayüzde sol üst tarafta programın çalıştığı bilgisayardan gelen tarih ve saat verileri bulunmakta. 
 </p>
@@ -94,6 +98,9 @@ Analog değer Arduinoya bağlı olan ADC entegresinden, numune durumu verisi ise
 <p>
 -Durumu kaydet butonu, tecrübeli kurutma çalışanları tarafından gözlemlenen malzemenin ideal kuruluğa ulaştığında basacağı butondur. Böylece hangi numunenin hangi analog değerde hangi nem oranında ideal kuruluğa ulaştığının bilgisi kayıt altına alınacaktır.
 </p>
+
+
+![1](https://ogrencievi.net/uploads/eray/HammaddeKurutmaAnalizSistemi/4.png)
 
 ### HEDEFLENEN
 
